@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BombowceAplikacja" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="zadanie_punktowane_4.BombowceAplikacja" />
+    <module name="zadanie_punktowane_4" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\javafx-sdk-21.0.11\lib&quot; --add-modules javafx.controls" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
